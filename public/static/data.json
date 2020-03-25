@@ -1,0 +1,26 @@
+[
+  {
+    "id":"3427aa25-3fc3-40da-a2a5-5c393563f98a",
+    "name":"Dinner with family",
+    "amount":-1250,
+    "date":"2020-02-27T17:00:00.000Z"
+  },
+  {
+    "id":"fe246154-e823-49b7-9ed9-901c034eb55d",
+    "name":"Lottery",
+    "amount":1500,
+    "date":"2020-03-01T17:00:00.000Z"
+  },
+  {
+    "id":"ae53f712-f77e-4e71-90d0-a9e0887972f2",
+    "name":"Movie",
+    "amount":-200,
+    "date":"2020-02-28T17:00:00.000Z"
+  },
+  {
+    "id":"59052beb-b229-4b6e-a164-3d980030b4ae",
+    "name":"Salary",
+    "amount":6500,
+    "date":"2020-02-24T17:00:00.000Z"
+  }
+]
